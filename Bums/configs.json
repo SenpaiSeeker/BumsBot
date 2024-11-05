@@ -7,6 +7,6 @@
   "howManyTapUpgrade": 10,
   "howManyBonusChanceUpgrade": 10,
   "howManyBonusRatioUpgrade": 10,
-  "maxCardPrice": 1000000,
+  "maxCardPrice": 9999999999999,
   "combo": "101,102,103"
 }
